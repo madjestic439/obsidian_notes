@@ -1,0 +1,9 @@
+- Marque: **KOHLER**
+- Modèle: **KOHLER-SDMO DIESEL 15000 TA XL**
+- Type: **3499231004616**
+- Type de moteur: **KD425-2**
+- Puissance (kVA ou kW): **assignée: 8kW , maximale: 10kW (12.5kVA)**
+- Année de première mise en service: **2023**
+- Nombre d’heures de fonctionnement au compteur: **393,69**
+- Dernière date de maintenance ou révision: **27/05/2025**
+- Éventuels problèmes rencontrés: **Filtres à air HS**

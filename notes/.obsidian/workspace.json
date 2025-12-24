@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devs/ubuntu/ubuntu.md",
+                "file": "works/spoon/admin/Groupe électrogène de diego.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ubuntu"
+              "title": "Groupe électrogène de diego"
             }
           }
         ]
@@ -201,11 +201,16 @@
   },
   "active": "c4fc38085c32d846",
   "lastOpenFiles": [
+    "devs/ubuntu/ubuntu.md",
+    "works/spoon/admin/Groupe électrogène de diego.md",
+    "works/spoon/admin",
+    "works/spoon",
+    "Untitled",
+    "works",
     "devs/ubuntu/apps/extension manager.md",
     "devs/python/fastapi/fastapi.md",
     "devs/python/fastapi/fastapi Install.md",
     "Welcome.md",
-    "devs/ubuntu/ubuntu.md",
     "devs/ubuntu/apps",
     "devs/python/python.md",
     "devs/python/fastapi",
@@ -217,10 +222,6 @@
     "devs-20251224T073700Z-1-001/devs/python/fastapi/fastapi Install.md",
     "devs-20251224T073700Z-1-001/devs/ubuntu/ubuntu.md",
     "devs-20251224T073700Z-1-001/devs/ubuntu/apps",
-    "devs-20251224T073700Z-1-001/devs/python/python.md",
-    "devs-20251224T073700Z-1-001/devs/python/fastapi",
-    "devs-20251224T073700Z-1-001/devs/ubuntu",
-    "devs-20251224T073700Z-1-001/devs/python",
-    "devs-20251224T073700Z-1-001/devs"
+    "devs-20251224T073700Z-1-001/devs/python/python.md"
   ]
 }
