@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "29e236066c33e44d",
+    "type": "split",
+    "children": [
+      {
+        "id": "560e38c31dd016a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fc38085c32d846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devs/ubuntu/ubuntu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ubuntu"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2877a16ba3728dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e3ef69df37d750",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c01aa70af7604b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "35104a8cf88f055a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc9323c1615452a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c9e6a387f599db3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b792c26aba1d86e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c81c7c17ff74c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cce20715fc0ca2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3228dd70e45ed84e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "ce4760ef305fa46d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a0b3692aa9e47ae4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f8b4a03151d6bd7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ab1e65ae0a692f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c4fc38085c32d846",
+  "lastOpenFiles": [
+    "devs/ubuntu/apps/extension manager.md",
+    "devs/python/fastapi/fastapi.md",
+    "devs/python/fastapi/fastapi Install.md",
+    "Welcome.md",
+    "devs/ubuntu/ubuntu.md",
+    "devs/ubuntu/apps",
+    "devs/python/python.md",
+    "devs/python/fastapi",
+    "devs/ubuntu",
+    "devs/python",
+    "devs",
+    "devs-20251224T073700Z-1-001/devs/ubuntu/apps/extension manager.md",
+    "devs-20251224T073700Z-1-001/devs/python/fastapi/fastapi.md",
+    "devs-20251224T073700Z-1-001/devs/python/fastapi/fastapi Install.md",
+    "devs-20251224T073700Z-1-001/devs/ubuntu/ubuntu.md",
+    "devs-20251224T073700Z-1-001/devs/ubuntu/apps",
+    "devs-20251224T073700Z-1-001/devs/python/python.md",
+    "devs-20251224T073700Z-1-001/devs/python/fastapi",
+    "devs-20251224T073700Z-1-001/devs/ubuntu",
+    "devs-20251224T073700Z-1-001/devs/python",
+    "devs-20251224T073700Z-1-001/devs"
+  ]
+}
